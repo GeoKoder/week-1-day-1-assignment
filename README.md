@@ -11,4 +11,4 @@
 ![Screenshot of Index Page](output/index-page.png)
 
 - This is the output of the Schedule Page
-![Screenshot of Schedule Page](output/schedule.png)
+![Screenshot of Schedule Page](output/schedule-page.png)
